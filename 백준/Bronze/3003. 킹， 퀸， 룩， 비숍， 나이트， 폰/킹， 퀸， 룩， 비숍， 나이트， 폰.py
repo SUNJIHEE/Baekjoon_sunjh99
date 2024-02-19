@@ -9,6 +9,4 @@ def main():
 
     for correction in corrections:
         print(correction)
-
-if __name__ == "__main__":
-    main()
+main()
